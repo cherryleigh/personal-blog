@@ -28,8 +28,9 @@ a:hover {
 }
 
     img {
-      width: 700px;
-      height: 300px;
+      width: 700;
+      height: 300;
+      align: center;
     }
 
     h2 {
