@@ -9,18 +9,19 @@ float: center;
   padding: 14px 16px;
   font-size: 17px;
   background-color: white;
+  margin: 15px;
+  padding: 14px 16px;
 }
  a {
     text-decoration: none;
    color: black;
  }
 
-
-  nav: hover{
-  background-color: black;
+a:hover {
+  background-color: #660000;
+  border-radius: 30px;
   color: white;
-  }
-
+}
 
     img {
       width: 500px;
