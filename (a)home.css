@@ -3,17 +3,18 @@ body {
 }
 
 nav {
-float: center;
-  color: black;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  background-color: rgba(12, 20, 48, 1);
+  padding: 10px 0;
   position: sticky;
-  z-index:100;
-  top:0;
-  text-align: center;
-  padding: 16px;
-  font-size: 17px;
-  background-color: white;
-  margin: 15px;
-  padding: 14px 16px;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  backdrop-filter: blur(0);
+  transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
+  color: black;
 }
  a {
     text-decoration: none;
@@ -28,8 +29,8 @@ a:hover {
 }
 
     img {
-      width: 700;
-      height: 300;
+      width: 300;
+      height: 100;
       align: center;
     }
 
