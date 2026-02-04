@@ -15,6 +15,7 @@ nav {
   backdrop-filter: blur(0);
   transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
   color: black;
+  background-color: white;
 }
  a {
     text-decoration: none;
@@ -29,8 +30,8 @@ a:hover {
 }
 
     img {
-      width: 300;
-      height: 100;
+      width: 500px;
+      height: 300px;
       align: center;
     }
 
