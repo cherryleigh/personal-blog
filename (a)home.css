@@ -28,7 +28,7 @@ a:hover {
 }
 
     img {
-      width: 500px;
+      width: 22000px;
       height: 300px;
     }
 
@@ -42,7 +42,7 @@ a:hover {
     }
 
     p {
-      color: white;
+      color: black;
     }
 
     iframe {
@@ -52,7 +52,7 @@ a:hover {
     }
 
     blockquote {
-      color: white;
+      color: black;
       text-align: center;
     }
 
