@@ -1,0 +1,57 @@
+body {
+  background-color: #660000;
+}
+
+.barnav {
+  overflow: hidden;
+  background-color: white;
+
+.barnav a{
+  .topnav a {
+  float: center;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+  .topnav a:hover {
+  background-color: black;
+  color: white;
+  }
+
+    .topnav a.active {
+  background-color: #400505;
+  color: white;
+    }
+
+    img {
+      width: 2200px;
+      height: 1000px;
+    }
+
+    h2 {
+      color: white;
+      text-align: center;
+    }
+
+    .text {
+      background: #fce5cd;
+    }
+
+    p {
+      color: white;
+    }
+
+    iframe {
+      float: center;
+      width: 400px;
+      height: 200px;
+    }
+
+    blockquote {
+      color: white;
+      text-align: center;
+    }
+
+  
