@@ -2,28 +2,22 @@ body {
   background-color: #660000;
 }
 
-.barnav {
-  overflow: hidden;
-  background-color: white;
-
-.barnav a{
-  .topnav a {
-  float: center;
+nav {
+float: center;
   color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  background-color: white;
+}
 
-  .topnav a:hover {
+
+  nav: hover{
   background-color: black;
   color: white;
   }
 
-    .topnav a.active {
-  background-color: #400505;
-  color: white;
-    }
 
     img {
       width: 500px;
