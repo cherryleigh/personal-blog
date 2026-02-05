@@ -30,7 +30,7 @@ a:hover {
 }
 
     img {
-      width: 970px;
+      width: 965px;
       height: 400px;
       float: center;;
     }
@@ -49,14 +49,13 @@ a:hover {
     }
 
     iframe {
-      float: center;
-      width: 400px;
-      height: 200px;
+      float: left;
+      width: 600px;
+      height: 300px;
     }
 
     blockquote {
       color: black;
-      text-align: center;
     }
 
   
